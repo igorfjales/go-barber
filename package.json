@@ -10,7 +10,6 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "@types/react-router-dom": "^5.1.8",
     "@types/styled-components": "^5.1.12",
     "@unform/core": "^2.1.6",
     "@unform/web": "^2.1.6",
@@ -54,6 +53,7 @@
   },
   "devDependencies": {
     "@types/yup": "^0.29.13",
+    "@types/react-router-dom": "^5.1.8",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2",
     "eslint": "^7.32.0",
