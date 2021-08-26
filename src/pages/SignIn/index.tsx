@@ -41,8 +41,6 @@ const SignIn: React.FC = () => {
 
         await schema.validate(data, { abortEarly: false });
 
-        console.log('teste');
-
         await signIn({
           email: data.email,
           password: data.password,
