@@ -38,7 +38,7 @@ export const AnimationContainer = styled.div`
   animation: ${AppearFromRight} 1s;
 
   form {
-    margin: 80px 0;
+    margin: 30px 0;
     width: 340px;
     text-align: center;
     h1 {
@@ -69,7 +69,7 @@ export const AnimationContainer = styled.div`
     align-items: center;
 
     svg {
-      margin-right: 16px;
+      margin-right: 10px;
     }
 
     &:hover {
