@@ -50,7 +50,7 @@ O GoBarber é uma aplicação que permite barbearias realizarem o cadastro de ba
 
 ### Tela de Perfil:
 
-<img src="src/assets/for-readme/dashboard.png">
+<img src="src/assets/for-readme/profile.png">
 
 ### Toast Notifications, tratamento de erros e campos com highlight:
 
